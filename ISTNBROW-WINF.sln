@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.902
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ISTNBROW-WINF", "ISTNBROW-WINF\ISTNBROW-WINF.vbproj", "{CCD24A74-EE83-4805-902F-8EB738A3DED7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CCD24A74-EE83-4805-902F-8EB738A3DED7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCD24A74-EE83-4805-902F-8EB738A3DED7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCD24A74-EE83-4805-902F-8EB738A3DED7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCD24A74-EE83-4805-902F-8EB738A3DED7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B46F8FA2-3E12-4AFF-AA3C-E00B543EE1AE}
+	EndGlobalSection
+EndGlobal
